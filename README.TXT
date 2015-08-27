@@ -1,6 +1,6 @@
 AUTHOR: Kylie Wu
 
-This project utilizes aspects of javax.swing and the Action pattern.
+This project utilizes aspects of javax.swing and the Action pattern. It was part of an assignment for Honors Introduction to Computer Science, COMS W1007.
 
 The program allows the user to add one of three shapes: House, Car, or Person. They can only add a total of 10 shapes to the frame. When a shape is clicked on, it is bolded to indicate its selected state. Selected items can be moved around the frame (maintaining the same distance in respect to each other) or removed.
 
